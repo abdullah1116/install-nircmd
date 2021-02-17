@@ -1,4 +1,4 @@
-# install-tskill
+# install-nircmd
 install command line program 'nircmd' in windows 10 
 
 Run command in powerShell(admin)
